@@ -1,4 +1,4 @@
-##Welcome!
+Welcome!
 
 Things I Like:
 - Learning
